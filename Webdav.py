@@ -12,6 +12,7 @@ banner = """
 thanks to best my friends
 ---winata
 ---hmei7
+---tn devile
 ---ghost999include
 . \n
 ███████▀▀▀░░░░░░░▀▀▀███████
