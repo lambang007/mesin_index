@@ -12,6 +12,6 @@ ketik perintah di bawah satu persatu
 5.pip2 install requests
 6.git clone 
 https://github.com/lambang007/mesin_index
-7.chmod x+*
+7.chmod +x *
 8.cd mesin_index
 9.
